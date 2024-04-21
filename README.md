@@ -1,5 +1,6 @@
 Details about passed tests: 
 *** The parts that are missing haven't been done ***
+
 lab1:
 grade: 7/7
 
